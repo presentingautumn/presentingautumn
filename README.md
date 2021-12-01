@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/presentingautumn/presentingautumn/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Feel free to take a look around at the repositories and projects.  You'll find a variety of tools and dashboards to explore. If you'd like to suggest a new project or tool, please get in touch! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Calculators
+Who doesn't love a good little calculator?!
 
-### Markdown
+### Tools
+Other tools like, calendars etc. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Data dashboards
+I love a bit of data visualation. 
 
-```markdown
-Syntax highlighted code block
+### Dilemnas
+These are comparison tools, for the moments when you simply can't decide which way to go, or which path to choose. 
 
-# Header 1
-## Header 2
-### Header 3
+### Credits due
+A collection of acknowledgements for the great work of others that may have inspired me, or may have provided free things which I've made use of.  
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/presentingautumn/presentingautumn/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
